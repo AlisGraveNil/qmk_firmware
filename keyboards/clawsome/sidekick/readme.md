@@ -1,11 +1,11 @@
 # Sidekick
 
 This is a 5x7 macropad designed to be used with any 60% or less board.
-You still need those arrow keys and that num-pad, so here it is, in a conveniently move-able package!
+You still need those arrow keys and that num-pad, so here they are, in a conveniently move-able package!
 
 - Keyboard Maintainer: [AAClawson](https://github.com/AlisGraveNil)
 - Hardware Supported: Sidekick 2.0a & 2.0b, Pro Micro, Elite-C
-- Hardware Availability: Not available yet; will be sold at a later date
+- Hardware Availability: www.clawboards.xyz
 
 Make example for this keyboard (after setting up your build environment):
 
