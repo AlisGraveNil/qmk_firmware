@@ -4,7 +4,7 @@ This is a 4x3 macropad designed to be used with your favorite 12 keys for whatev
 
 - Keyboard Maintainer: [AAClawson](https://github.com/AlisGraveNil)
 - Hardware Supported: Bookerboard, Pro Micro, Elite-C
-- Hardware Availability: Not available yet; will be sold at a later date
+- Hardware Availability: www.clawboards.xyz
 
 Make example for this keyboard (after setting up your build environment):
 
