@@ -1,7 +1,7 @@
 {
     "keyboard_name": "sedan",
-    "url": "",
-    "maintainer": "qmk",
+    "url": "www.clawboards.xyz",
+    "maintainer": "AAClawson (AlisGraveNil)",
     "width": 16,
     "height": 5,
     "layouts": {
